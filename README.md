@@ -17,4 +17,4 @@ Technologies Used
 
 Cricket Live Data API by SportContentAPI: https://rapidapi.com/sportcontentapi/api/cricket-live-data
 
-Bootstrap CSS framework: https://getbootstrap.com/
+Bootstrap CSS framework
